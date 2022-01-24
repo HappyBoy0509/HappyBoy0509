@@ -8,8 +8,6 @@
 <p align="middle">
 <img src="https://badgen.net/badge/Name/HappyBoy/FF33FF?icon=awesome&labelColor=0080FF"></a>
 <img src="https://badgen.net/badge/Skills/python/Red?icon=terminal&labelColor=blue"></a>
-
-
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/HappyBoy05/&title=Profile%20Views)
 
 
