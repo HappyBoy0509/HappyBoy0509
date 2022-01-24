@@ -2,9 +2,10 @@
 
 
 
-
-<!--
-**Happyboy05/HappyBoy05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="middle">
+<img src="https://telegra.ph/file/024846dd18debc64c91e8.jpg" width="150" height="150"><br>
+<img src="https://badgen.net/badge/Name/HappyBoy/FF33FF?icon=awesome&labelColor=0080FF"></a>
+<img src="https://badgen.net/badge/Skills/python/Red?icon=terminal&labelColor=blue"></a>
 
 Here are some ideas to get you started:
 
