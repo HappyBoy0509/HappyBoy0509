@@ -58,7 +58,7 @@ ___
 # <p align="center">Aʙɪsʜɪᴋᴛʜ Jᴏs
 
 [<p align="center">
-<img src="https://telegra.ph/file/e59cf7c2d8cea81680e46.jpg">](https://telegram.dog/HappyBoy59)
+<img src="https://telegra.ph/file/fe30025024f1f2c42f801.jpg">](https://telegram.dog/HappyBoy59)
 
 
 
