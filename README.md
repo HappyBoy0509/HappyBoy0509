@@ -55,8 +55,6 @@ Here are some ideas to get you started:
 ___
 
 
-# <p align="center">Aʙɪsʜɪᴋᴛʜ Jᴏs
-
 [<p align="center">
 <img src="https://telegra.ph/file/fe30025024f1f2c42f801.jpg">](https://telegram.dog/HappyBoy59)
 
