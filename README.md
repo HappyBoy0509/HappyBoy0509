@@ -4,7 +4,7 @@
 
 
 <!--
-**Hillard-har/Hillard-Har** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Happyboy05/HappyBoy05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -33,13 +32,13 @@ Here are some ideas to get you started:
 -->
 
 
-#### 👋 Hi... I am Aʙɪsʜɪᴋᴛʜ Jᴏs, 
+#### 👋 Hi... I am Happy Boy, 
 
 Also known as Hillard-Har | Trackstudio 👈 My mistake 😂
 
 
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Hillard-Har/&title=Profile%20Views)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/HappyBoy05/&title=Profile%20Views)
 
 
 
@@ -48,13 +47,13 @@ Also known as Hillard-Har | Trackstudio 👈 My mistake 😂
 ```
 ⚜️ HOBBIES 
 
-👉 Creating Electrical/Electronic circuits
+👉 Music
 
-👉 Programing ( Mainly python <Love to learn more> ) 
+👉 Editing
 
-👉 Drawing 
+👉 Exploring
 
-👉 Designing UI
+👉 Loading...
 ```
 
 
@@ -75,7 +74,7 @@ Also known as Hillard-Har | Trackstudio 👈 My mistake 😂
 
 #### 🔰 Current Status
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Hillard-Har&show_icons=true&include_all_commits=true&theme=vue&cache_seconds=86400)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=HappyBoy05&show_icons=true&include_all_commits=true&theme=vue&cache_seconds=86400)
 
 ___
 
@@ -87,7 +86,7 @@ ___
 
 
 
-#### <i>Contact Me Through [@Ts_Bots](https://telegram.me/Ts_bots)</i> 
+#### <i>Contact Me Through [@HappyBoy](https://telegram.me/HappyBoy59)</i> 
 
 ---
 
@@ -100,6 +99,6 @@ ___
 
 #### Most used Language 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hillard-har&layout=compact)](https://github.com/Hillard-har)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HappyBoy05&layout=compact)](https://github.com/HappyBoy05)
 <br />
 <br />
