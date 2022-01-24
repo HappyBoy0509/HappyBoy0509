@@ -37,6 +37,8 @@
 
 👉 Exploring
 
+👉 Gaming
+
 👉 Loading...
 ```
 
