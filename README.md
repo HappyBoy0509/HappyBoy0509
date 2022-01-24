@@ -3,9 +3,9 @@
 
 
 
-#### 👋 Hi... I am Happy Boy, 
+#### 👋 Hi..., 
 
-<img src="https://badgen.net/badge/Name/HappyBoy/FF33FF?icon=awesome&labelColor=0080FF"></a> 
+<img src="https://badgen.net/badge/They Call Me/HappyBoy/FF33FF?icon=awesome&labelColor=0080FF"></a> 
 
 <img src="https://badgen.net/badge/Skills/python/Red?icon=terminal&labelColor=blue"></a> 
 
