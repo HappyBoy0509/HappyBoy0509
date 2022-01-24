@@ -23,7 +23,7 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 -->
-[![Generic badge](https://img.shields.io/badge/REACHME-@-<COLOR>.svg)](https://t.me/happyboy59)[![telegrambadge](https://img.shields.io/badge/ρяє∂αтσя-30302f?style=flat&logo=telegram)](https://telegram.dog/HappyBoy59)
+[![Generic badge](https://img.shields.io/badge/REACHME-@-<COLOR>.svg)](https://t.me/happyboy59)[![telegrambadge](https://img.shields.io/badge/HappyBoy-30302f?style=flat&logo=telegram)](https://telegram.dog/HappyBoy59)
 
 
 #### 🥰 My Hobbies 
