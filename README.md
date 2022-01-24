@@ -41,16 +41,6 @@
 
 ___
 
-
-[<p align="center">
-<img src="https://telegra.ph/file/fe30025024f1f2c42f801.jpg">](https://telegram.dog/HappyBoy59)
-
-
-
-#### <i>Contact Me Through [@HappyBoy](https://telegram.me/HappyBoy59)</i> 
-
----
-
 <p align="center">
     <a href="https://t.me/HappyBoy59">
         <img alt="GPL3" src ="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/daftpunktocat-guy.gif" width="300" height="300"/>
