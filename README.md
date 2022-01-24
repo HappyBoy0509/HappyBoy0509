@@ -9,7 +9,8 @@
 
 <img src="https://badgen.net/badge/Skills/python/Red?icon=terminal&labelColor=blue"></a> 
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/HappyBoy05/&title=Profile%20Views)
+![GitHub followers](https://img.shields.io/github/followers/PredatorHackerzZ?style=social)     ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/PredatorHackerzZ/)
+
 
 
 
