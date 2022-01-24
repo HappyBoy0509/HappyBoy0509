@@ -35,17 +35,19 @@
 👉 Loading...
 ```
 
+<p align="center">
+    <a href="https://t.me/HappyBoy59">
+        <img alt="GPL3" src ="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/daftpunktocat-guy.gif" width="300" height="300"/>
+    </a>
+</p>
+
 #### 🔰 Current Status
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=HappyBoy05&show_icons=true&include_all_commits=true&theme=vue&cache_seconds=86400)
 
 ___
 
-<p align="center">
-    <a href="https://t.me/HappyBoy59">
-        <img alt="GPL3" src ="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/daftpunktocat-guy.gif" width="300" height="300"/>
-    </a>
-</p>
+
 
 
 #### Most used Language 
