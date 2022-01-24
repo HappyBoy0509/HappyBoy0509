@@ -9,7 +9,7 @@
 
 <img src="https://badgen.net/badge/Skills/python/Red?icon=terminal&labelColor=blue"></a> 
 
-![GitHub followers](https://img.shields.io/github/followers/PredatorHackerzZ?style=social)     ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/PredatorHackerzZ/)
+ ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/PredatorHackerzZ/)
 
 
 
