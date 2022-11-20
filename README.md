@@ -30,8 +30,6 @@
 #### 🥰 My Hobbies 
 
 ```
-⚜️ HOBBIES 
-
 👉 Music
 
 👉 Editing
@@ -40,7 +38,6 @@
 
 👉 Gaming
 
-👉 Loading...
 ```
 
 <p align="center">
